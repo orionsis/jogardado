@@ -1,1 +1,1 @@
-# jogodados
+# jogar dado
