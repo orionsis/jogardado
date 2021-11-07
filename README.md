@@ -1,1 +1,1 @@
-# jogar dado
+# jogo de dado simples
